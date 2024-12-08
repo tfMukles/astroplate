@@ -1,0 +1,59 @@
+{
+  "main": [
+    {
+      "name": "Home",
+      "url": "/"
+    },
+    {
+      "name": "Browse Resources",
+      "url": "/mega",
+      "hasChildren": true,
+      "isMega": true,
+      "search_tags": [
+        "UI Kit",
+        "Hero section",
+        "Footer Section",
+        "Features Section",
+        "Service Section",
+        "Dashboard UI",
+        "Landing Page",
+        "Pricing",
+        "404",
+        "SaaS",
+        "Portfolio",
+        "Agency",
+        "Ecommerce",
+        "Blog",
+        "Crypto",
+        "Mockup",
+        "Illustration Pack",
+        "Icon Pack"
+      ],
+      "children": [
+        {
+          "name": "",
+          "url": "",
+          "children": [
+            {
+              "name": "Design Resources",
+              "url": "/designs",
+              "logo": "/images/svgs/figma.svg",
+              "badge": "Browse 16,000+ Design Resources"
+            },
+            {
+              "name": "Icon Resources",
+              "url": "/icons",
+              "logo": "/images/svgs/uihut.svg",
+              "badge": "Browse 8500+ Icon Resources"
+            },
+            {
+              "name": "Webflow Resources (Coming Soon)",
+              "url": "/webflow-resources",
+              "logo": "/images/svgs/webflow.svg",
+              "badge": "Browse 1500+ Webflow Resources"
+            }
+          ]
+        }
+      ]
+    }]
+}

@@ -52,7 +52,8 @@
           "type": "string",
           "value": ""
         }
-      ]
+      ],
+      "description": "this is description"
     }
   ]
 }

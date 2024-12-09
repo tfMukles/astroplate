@@ -21,5 +21,5 @@ list:
     thumbnail: /Miami Creators.webp
     youtubeVideoId: >-
       https://miamicreators.com/episodes/episode-019-with-barry-stamos-leading-from-the-heart
-draft: false
+draft: true
 ---

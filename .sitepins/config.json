@@ -9,19 +9,6 @@
   "themeConfig": [
     "src/config/theme.json"
   ],
-  "arrangement": [
-    {
-      "type": "folder",
-      "targetPath": "src/content/blog",
-      "groupName": "Blogs",
-      "include": "*.md, *.mdx",
-      "exclude": "!index.md"
-    },
-    {
-      "type": "heading",
-      "groupName": "Test Heading 2",
-      "targetPath": ""
-    }
-  ],
-  "showCommitModal": false
+  "arrangement": [],
+  "showCommitModal": true
 }

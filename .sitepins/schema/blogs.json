@@ -1,0 +1,69 @@
+{
+  "file": "src/content/about/prodcasts_copy_3.md",
+  "name": "blogs",
+  "fileType": "md",
+  "fmType": "yaml",
+  "template": [
+    {
+      "label": "Enable",
+      "name": "enable",
+      "type": "boolean",
+      "value": ""
+    },
+    {
+      "label": "Title",
+      "name": "title",
+      "type": "string",
+      "value": ""
+    },
+    {
+      "label": "Subtitle",
+      "name": "subtitle",
+      "type": "string",
+      "value": ""
+    },
+    {
+      "label": "List",
+      "name": "list",
+      "type": "Array",
+      "fields": [
+        {
+          "label": "Enable",
+          "name": "enable",
+          "type": "boolean",
+          "value": ""
+        },
+        {
+          "label": "Head",
+          "name": "head",
+          "type": "string",
+          "value": ""
+        },
+        {
+          "label": "Title",
+          "name": "title",
+          "type": "string",
+          "value": ""
+        },
+        {
+          "label": "Thumbnail",
+          "name": "thumbnail",
+          "type": "media",
+          "value": ""
+        },
+        {
+          "label": "YoutubeVideoId",
+          "name": "youtubeVideoId",
+          "type": "string",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "label": "Draft",
+      "name": "draft",
+      "type": "boolean",
+      "value": ""
+    }
+  ]
+}

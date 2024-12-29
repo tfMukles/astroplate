@@ -1,42 +1,20 @@
 ---
-title: অভিযাত্রিক জামে মাসজিদ ও দাওয়া সেন্টার
-meta_title: অভিযাত্রিক জামে মাসজিদ ও দাওয়া সেন্টার
-description: ""
-date: '2024-12-24'
-image: /images/ovijatrikmasjid.jpeg
-organizer: avijatrik-jame-masjid-and-dawa-center
-project_end_date:
-  enable: true
-  end_date: '2025-01-21T12:00:00'
-donation_goals:
-  enable: true
-  amount: ৳20,000
-  payment_methods:
-    mobileBanking:
-      - type: Bkash
-        image: /images/projects/bkash.png
-        number: '01720803305'
-        reference: Sadaqah Made Easy
-        accountType: Personal
-      - type: Nagad
-        image: /images/projects/nagad.png
-        number: '01720803305'
-        reference: Sadaqah Made Easy
-        accountType: Personal
-    bank:
-      type: Bank
-      image: /images/projects/bank.png
-      details:
-        name: Al-Arafa Islami Bank
-        account: '0751120062152'
-        accountName: Avijatrik Jame Masjid and Dawa Center
-        branch: Dinajpur Branch
-        reference: Sadaqah Made Easy
+title: সাব'আ সানাবিল মসজিদ কমপ্লেক্স
+meta_title: সাব'আ সানাবিল মসজিদ কমপ্লেক্স
+description: >-
+  ইনশাআল্লাহ এই অফিস থেকেই আমাদের জেনারেল ও মাদ্রাসা পড়ুয়া ছাত্র-শিক্ষকদের জন্য
+  মাদানী নেসাবের উপর একাডেমিক ভিডিও কনটেন্ট, বিভিন্ন টপিকের উপর ওস্তাদদের আলোচনা
+  সহ সকল ধরনের ভিডিও কনটেন্ট প্রোডাকশন করা হবে ইনশাআল্লাহ। আল্লাহ চাইলে এ সকল
+  কাজের প্রাণকেন্দ্র হতে যাচ্ছে আমাদের এই মসজিদ কমপ্লেক্স যেখানে থাকবে সাব'আ
+  সানাবিল ফাউন্ডেশনের স্থায়ী কার্যালয়। 
+date: '2024-02-12'
+image: https://drive.google.com/uc?export=view&id=1P_36HG4BD1QRSHxnbJHadMC_C2m28Xvf
+organizer: saba-sanabil-foundation
 categories:
   - Mosque
-  - Dawah
 tags:
   - Mosque
   - মসজিদ
+  - দাওয়াহ
 draft: false
 ---

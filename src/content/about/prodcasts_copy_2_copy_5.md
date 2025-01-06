@@ -61,6 +61,7 @@ hi
     * fsad
     * asdf
     * fas
+    * fas
 
 ```javascript
   function(){
@@ -70,6 +71,4 @@ hi
 
 she
 
-fas\
-fuck you\
-fuck you
+fas
